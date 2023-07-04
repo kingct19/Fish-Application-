@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "582659952360",
+    "project_id": "fish-37efe",
+    "storage_bucket": "fish-37efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582659952360:android:82a2d0f08933e0dcf4035d",
+        "android_client_info": {
+          "package_name": "com.example.sampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582659952360-mi0udl4istpgn9nesfvf3a9s9rnhkg0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDb85fjLnGvwvzUWggnoXfYMvq6AntdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582659952360-mi0udl4istpgn9nesfvf3a9s9rnhkg0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582659952360-37rmdfe31bg814ch80ck4hu0q4k6pao9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sampleproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
